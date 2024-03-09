@@ -1,0 +1,22 @@
+# 06/11/2023 16:15:52
+# Wilcoxon Signed Rank test (vns_full X IG_MIP_10)
+# Significance Level: 0.05
+firstInst, 	lastInst, 	col, 		p_value, 	effSize, 	mag
+C101_C5x, 	RC208_C5x, 	dist_min, 	7.23E-01, 	- , 		-
+C101_C5x, 	RC208_C5x, 	dist_mean, 	6.37E-01, 	- , 		-
+C101_C5x, 	RC208_C5x, 	tempoCpu_mean, 	1.47E-01, 	- , 		-
+C101_C10x, 	RC205_C10x, 	dist_min, 	9.37E-01, 	- , 		-
+C101_C10x, 	RC205_C10x, 	dist_mean, 	3.67E-01, 	- , 		-
+C101_C10x, 	RC205_C10x, 	tempoCpu_mean, 	6.53E-02, 	- , 		-
+C103_C15x, 	RC204_C15x, 	dist_min, 	1.00E+00, 	- , 		-
+C103_C15x, 	RC204_C15x, 	dist_mean, 	8.45E-01, 	- , 		-
+C103_C15x, 	RC204_C15x, 	tempoCpu_mean, 	3.76E-02, 	0.61, 		3
+C101_21x, 	C208_21x, 	dist_min, 	3.85E-04, 	0.87, 		3
+C101_21x, 	C208_21x, 	dist_mean, 	3.21E-04, 	0.88, 		3
+C101_21x, 	C208_21x, 	tempoCpu_mean, 	3.21E-04, 	0.88, 		3
+R101_21x, 	R211_21x, 	dist_min, 	2.89E-05, 	0.88, 		3
+R101_21x, 	R211_21x, 	dist_mean, 	2.89E-05, 	0.88, 		3
+R101_21x, 	R211_21x, 	tempoCpu_mean, 	2.89E-05, 	0.88, 		3
+RC101_21x, 	RC208_21x, 	dist_min, 	7.07E-04, 	0.85, 		3
+RC101_21x, 	RC208_21x, 	dist_mean, 	5.85E-04, 	0.87, 		3
+RC101_21x, 	RC208_21x, 	tempoCpu_mean, 	4.82E-04, 	0.88, 		3

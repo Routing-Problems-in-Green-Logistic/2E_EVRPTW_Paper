@@ -1,0 +1,88 @@
+ C101_C5x  a  RC208_C5x
+num de inst:  12
+    dist_mag  t_mag
+-3       NaN   12.0
+-2       NaN    0.0
+-1       NaN    0.0
+0        1.0    0.0
+1        0.0    NaN
+2        1.0    NaN
+3        0.0    NaN
+-       10.0    NaN
+
+**********************************
+
+
+C101_C10x  a  RC205_C10x
+num de inst:  12
+    dist_mag  t_mag
+-3       NaN   12.0
+-2       NaN    0.0
+-1       NaN    0.0
+0        2.0    0.0
+1        0.0    NaN
+2        1.0    NaN
+3        6.0    NaN
+-        3.0    NaN
+
+**********************************
+
+
+C103_C15x  a  RC204_C15x
+num de inst:  12
+    dist_mag  t_mag
+-3       NaN    6.0
+-2       NaN    5.0
+-1       NaN    1.0
+0        1.0    0.0
+1        0.0    NaN
+2        5.0    NaN
+3        6.0    NaN
+-        0.0    NaN
+
+**********************************
+
+
+C101_21x  a  C208_21x
+num de inst:  17
+    dist_mag  t_mag
+-3       NaN   17.0
+-2       NaN    0.0
+-1       NaN    0.0
+0        0.0    0.0
+1        0.0    NaN
+2        1.0    NaN
+3       16.0    NaN
+-        0.0    NaN
+
+**********************************
+
+
+R101_21x  a  R211_21x
+num de inst:  23
+    dist_mag  t_mag
+-3       NaN   22.0
+-2       NaN    0.0
+-1       NaN    0.0
+0        6.0    1.0
+1        1.0    NaN
+2       10.0    NaN
+3        6.0    NaN
+-        0.0    NaN
+
+**********************************
+
+
+RC101_21x  a  RC208_21x
+num de inst:  16
+    dist_mag  t_mag
+-3       NaN   14.0
+-2       NaN    0.0
+-1       NaN    0.0
+0        3.0    2.0
+1        1.0    NaN
+2        4.0    NaN
+3        8.0    NaN
+-        0.0    NaN
+
+**********************************
